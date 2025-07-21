@@ -39,8 +39,8 @@
         },
         {
             "id": "everyones_japanese_intermediate",
-            "name": "大家的日语中级",
-            "description": "大家的日语中级",
+            "name": "大日中级",
+            "description": "大日中级",
             "cover": "https://free.picui.cn/free/2025/07/20/687bd4713099b.jpg",
             "volumes": [
                 {"id":"volume1","name":"第一册","description":"1-12课","lessons":[1,2,3,4,5,6,7,8,9,10,11,12]}
