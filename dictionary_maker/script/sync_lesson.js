@@ -214,15 +214,29 @@ class LessonSync {
 }
 
 /**
- * 主函数
+ * 主函数 - 通用化支持任意lessonX.md到lessonX.json
  */
 function main() {
     const args = process.argv.slice(2);
     
-    // 默认路径
-    const currentDir = __dirname;
-    const mdFile = args[0] || path.join(currentDir, 'lesson1.md');
-    const jsonFile = args[1] || path.join(currentDir, '..', 'everyones_japanese_intermediate', 'lesson1.json');
+    let mdFile, jsonFile;
+    
+    if (args.length >= 2) {
+        // 直接指定文件路径
+        mdFile = args[0];
+        jsonFile = args[1];
+    } else if (args.length === 1) {
+        // 指定课程编号，自动生成路径
+        const lessonNum = args[0];
+        const currentDir = __dirname;
+        mdFile = path.join(currentDir, 'backup', 'everyones_japanese_intermediate', `lesson${lessonNum}.md`);
+        jsonFile = path.join(currentDir, '..', 'everyones_japanese_intermediate', `lesson${lessonNum}.json`);
+    } else {
+        // 默认处理lesson1
+        const currentDir = __dirname;
+        mdFile = path.join(currentDir, 'lesson1.md');
+        jsonFile = path.join(currentDir, '..', 'everyones_japanese_intermediate', 'lesson1.json');
+    }
 
     // 检查文件是否存在
     if (!fs.existsSync(mdFile)) {
@@ -235,6 +249,8 @@ function main() {
         process.exit(1);
     }
 
+    console.log(`正在同步: ${path.basename(mdFile)} -> ${path.basename(jsonFile)}`);
+    
     // 执行同步
     const sync = new LessonSync();
     sync.syncFiles(mdFile, jsonFile);

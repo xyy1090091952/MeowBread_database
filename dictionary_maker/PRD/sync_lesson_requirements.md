@@ -85,9 +85,30 @@
 - 在修改前自动创建lesson1.json的备份文件
 
 ## 使用方式
+
+### 通用化支持
+脚本现在支持多种使用方式，可以处理任意lessonX.md到lessonX.json的同步：
+
+#### 方式1：指定课程编号（推荐）
 ```bash
-node sync_lesson.js [md文件路径] [json文件路径]
+node sync_lesson.js 2
 ```
+自动处理：
+- `dictionary_maker/backup/everyones_japanese_intermediate/lesson2.md`
+- `everyones_japanese_intermediate/lesson2.json`
+
+#### 方式2：直接指定完整路径
+```bash
+node sync_lesson.js path/to/source.md path/to/target.json
+```
+
+#### 方式3：默认处理lesson1
+```bash
+node sync_lesson.js
+```
+自动处理：
+- `dictionary_maker/lesson1.md`
+- `everyones_japanese_intermediate/lesson1.json`
 
 ## 示例输出
 ```
