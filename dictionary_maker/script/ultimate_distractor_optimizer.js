@@ -34,8 +34,15 @@ function optimizeWordDistractors(wordData) {
     // --- 优化中文干扰项 ---
     const chineseKey = findKeyForWord(chineseThesaurus, mainChinese);
     if (chineseKey) {
-        const synonyms = chineseThesaurus[chineseKey].filter(w => w !== mainChinese); // 排除主词本身
-        const newDistractors = getRandomElements(synonyms, 6);
+        let synonyms = chineseThesaurus[chineseKey].filter(w => w !== mainChinese); // 排除主词本身
+        let newDistractors = getRandomElements(synonyms, 6);
+
+        // 如果数量不足6个，从通用词库补充
+        if (newDistractors.length < 6) {
+            const remaining = 6 - newDistractors.length;
+            const generalWords = (chineseThesaurus["通用补充"] || []).filter(w => !newDistractors.includes(w) && w !== mainChinese);
+            newDistractors.push(...getRandomElements(generalWords, remaining));
+        }
         
         if (JSON.stringify(wordData.中文干扰词) !== JSON.stringify(newDistractors) && newDistractors.length > 0) {
             const oldDistractors = JSON.stringify(wordData.中文干扰词);
@@ -48,8 +55,15 @@ function optimizeWordDistractors(wordData) {
     // --- 优化日语干扰项 ---
     const japaneseKey = findKeyForWord(japaneseThesaurus, mainJapanese);
     if (japaneseKey) {
-        const synonyms = japaneseThesaurus[japaneseKey].filter(w => w !== mainJapanese); // 排除主词本身
-        const newDistractors = getRandomElements(synonyms, 6);
+        let synonyms = japaneseThesaurus[japaneseKey].filter(w => w !== mainJapanese); // 排除主词本身
+        let newDistractors = getRandomElements(synonyms, 6);
+
+        // 如果数量不足6个，从通用词库补充
+        if (newDistractors.length < 6) {
+            const remaining = 6 - newDistractors.length;
+            const generalWords = (japaneseThesaurus["通用补充"] || []).filter(w => !newDistractors.includes(w) && w !== mainJapanese);
+            newDistractors.push(...getRandomElements(generalWords, remaining));
+        }
 
         if (JSON.stringify(wordData.日语干扰词) !== JSON.stringify(newDistractors) && newDistractors.length > 0) {
             const oldDistractors = JSON.stringify(wordData.日语干扰词);
