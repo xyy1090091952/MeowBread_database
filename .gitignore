@@ -1,0 +1,28 @@
+# Figma 设计文件 - 忽略 Figma 导出的设计文件和资源
+.figma/
+
+# 常见的忽略文件
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 构建输出
+dist/
+build/
+*.tgz
+*.tar.gz
+
+# 临时文件
+*.tmp
+*.temp
