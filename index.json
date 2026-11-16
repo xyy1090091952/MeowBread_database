@@ -124,6 +124,30 @@
                 {"courseNumber":4,"courseTitle":"第4课","lessonFile":"lesson4.json","description":"多邻国第4课"},
                 {"courseNumber":5,"courseTitle":"第5课","lessonFile":"lesson5.json","description":"多邻国第5课"}
             ]
+        },
+        {
+            "id": "try_n1",
+            "name": "TRY日语N1",
+            "description": "TRY N1 第1课：ビールの祭典",
+            "cover": "https://xyy1090091952.github.io/MeowBread_database/assets/try_n1-cover-v6.png",
+            "volumes": [
+                {
+                    "id": "basic",
+                    "name": "N1",
+                    "description": "第1课（其余课程待补充）",
+                    "lessons": [
+                        1
+                    ]
+                }
+            ],
+            "courses": [
+                {
+                    "courseNumber": 1,
+                    "courseTitle": "第1课",
+                    "lessonFile": "lesson1.json",
+                    "description": "ビールの祭典"
+                }
+            ]
         }
     ]
 }
