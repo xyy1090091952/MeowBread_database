@@ -1,0 +1,3267 @@
+{
+  "sourceFile": "TRY N1重点单词.pdf",
+  "note": "课号与标题已按PDF页面核对；课内分节保留原表编号，不能把PDF页码当作课号。未完成的课程仅保存重点清单，不生成可测试课程。",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "sections": [
+        {
+          "title": "オクトーバーフェスト",
+          "sourcePage": 1,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "祭典(さいてん)",
+              "chinese": "庆典",
+              "wordKey": "祭典"
+            },
+            {
+              "number": 2,
+              "japanese": "開幕(かいまく)",
+              "chinese": "开幕",
+              "wordKey": "開幕"
+            },
+            {
+              "number": 3,
+              "japanese": "樽(たる)",
+              "chinese": "木桶,桶",
+              "wordKey": "樽"
+            },
+            {
+              "number": 4,
+              "japanese": "ヘクタール",
+              "chinese": "公顷",
+              "wordKey": "ヘクタール"
+            },
+            {
+              "number": 5,
+              "japanese": "敷地(しきち)",
+              "chinese": "占地,地皮,用地",
+              "wordKey": "敷地"
+            },
+            {
+              "number": 6,
+              "japanese": "繰り広げる くりひろ",
+              "chinese": "展开,开展,铺开",
+              "wordKey": "繰り広げる"
+            },
+            {
+              "number": 7,
+              "japanese": "本場(ほんば)",
+              "chinese": "原产地,正宗的",
+              "wordKey": "本場"
+            },
+            {
+              "number": 8,
+              "japanese": "訪れる(おとずれる)",
+              "chinese": "造访,拜访,访问",
+              "wordKey": "訪れる"
+            },
+            {
+              "number": 9,
+              "japanese": "節目(ふしめ)",
+              "chinese": "节,竹节;阶段",
+              "wordKey": "節目"
+            },
+            {
+              "number": 10,
+              "japanese": "設置（せっち）",
+              "chinese": "设置",
+              "wordKey": "設置"
+            },
+            {
+              "number": 11,
+              "japanese": "漂う(ただよう)",
+              "chinese": "飘荡,弥漫,洋溢;徘徊",
+              "wordKey": "漂う"
+            },
+            {
+              "number": 12,
+              "japanese": "連日(れんじつ)",
+              "chinese": "连日",
+              "wordKey": "連日"
+            },
+            {
+              "number": 13,
+              "japanese": "パレード",
+              "chinese": "盛装游行(队伍)",
+              "wordKey": "パレード"
+            },
+            {
+              "number": 14,
+              "japanese": "競馬(けいば)",
+              "chinese": "赛马",
+              "wordKey": "競馬"
+            },
+            {
+              "number": 15,
+              "japanese": "開催（かいさい）",
+              "chinese": "开,召开,举办",
+              "wordKey": "開催"
+            },
+            {
+              "number": 16,
+              "japanese": "見込む(みこむ)",
+              "chinese": "预计,预料,估计",
+              "wordKey": "見込む"
+            },
+            {
+              "number": 17,
+              "japanese": "メイン",
+              "chinese": "主要,主要的",
+              "wordKey": "メイン"
+            },
+            {
+              "number": 18,
+              "japanese": "ノンアルコール飲料",
+              "chinese": "无酒精饮料",
+              "wordKey": "ノンアルコール飲料"
+            },
+            {
+              "number": 19,
+              "japanese": "メリーゴーラウンド",
+              "chinese": "旋转木马",
+              "wordKey": "メリーゴーラウンド"
+            },
+            {
+              "number": 20,
+              "japanese": "ジェットコースター",
+              "chinese": "过山车,云霄飞车",
+              "wordKey": "ジェットコースター"
+            },
+            {
+              "number": 21,
+              "japanese": "興奮気味(ぎみ)",
+              "chinese": "有点兴奋",
+              "wordKey": "興奮気味"
+            },
+            {
+              "number": 22,
+              "japanese": "監督(かんとく)",
+              "chinese": "导演,教练,总监",
+              "wordKey": "監督"
+            },
+            {
+              "number": 23,
+              "japanese": "ロケ",
+              "chinese": "位置；外景拍摄",
+              "wordKey": "ロケ"
+            },
+            {
+              "number": 24,
+              "japanese": "家計(かけい)",
+              "chinese": "家计,家庭经济,家中收支情况",
+              "wordKey": "家計"
+            },
+            {
+              "number": 25,
+              "japanese": "のしかかる",
+              "chinese": "压在…上,涌上(心头)",
+              "wordKey": "のしかかる"
+            },
+            {
+              "number": 26,
+              "japanese": "物件(ぶっけん)",
+              "chinese": "(用于出租或销售用途的)房源,房子",
+              "wordKey": "物件"
+            },
+            {
+              "number": 27,
+              "japanese": "入居(にゅうきょ)",
+              "chinese": "入住",
+              "wordKey": "入居"
+            },
+            {
+              "number": 28,
+              "japanese": "殺到（さっとう）",
+              "chinese": "蜂拥而至,纷纷到来,涌向",
+              "wordKey": "殺到"
+            },
+            {
+              "number": 29,
+              "japanese": "辞意(じい)",
+              "chinese": "辞职之意",
+              "wordKey": "辞意"
+            },
+            {
+              "number": 30,
+              "japanese": "一斉に(いっせいに)",
+              "chinese": "一齐",
+              "wordKey": "一斉に"
+            },
+            {
+              "number": 31,
+              "japanese": "寛容(かんよう)",
+              "chinese": "宽容的,宽恕,容许",
+              "wordKey": "寛容"
+            },
+            {
+              "number": 32,
+              "japanese": "独特(どくとく)",
+              "chinese": "独特",
+              "wordKey": "独特"
+            },
+            {
+              "number": 33,
+              "japanese": "控える(ひかえる)",
+              "chinese": "临近;节制,抑制,控制",
+              "wordKey": "控える"
+            },
+            {
+              "number": 34,
+              "japanese": "普段(ふだん)",
+              "chinese": "平时,通常",
+              "wordKey": "普段"
+            },
+            {
+              "number": 35,
+              "japanese": "～に打ち込む うちこむ",
+              "chinese": "专注于～;被关进～,投入,扔进",
+              "wordKey": "打ち込む"
+            },
+            {
+              "number": 36,
+              "japanese": "サミット",
+              "chinese": "首脑会议,最高级会议",
+              "wordKey": "サミット"
+            },
+            {
+              "number": 37,
+              "japanese": "配慮（はいりょ）",
+              "chinese": "考虑,照料",
+              "wordKey": "配慮"
+            },
+            {
+              "number": 38,
+              "japanese": "従来(じゅうらい)",
+              "chinese": "从来,以前,直到现在",
+              "wordKey": "従来"
+            },
+            {
+              "number": 39,
+              "japanese": "キャプテン",
+              "chinese": "首领,教练,船长,队长",
+              "wordKey": "キャプテン"
+            },
+            {
+              "number": 40,
+              "japanese": "姿勢(しせい)",
+              "chinese": "姿势,姿态,态度",
+              "wordKey": "姿勢"
+            },
+            {
+              "number": 41,
+              "japanese": "コラム",
+              "chinese": "专栏",
+              "wordKey": "コラム"
+            },
+            {
+              "number": 42,
+              "japanese": "経緯(けいい)",
+              "chinese": "经纬,原委,事情的经过",
+              "wordKey": "経緯"
+            },
+            {
+              "number": 43,
+              "japanese": "責任逃(のが)れ",
+              "chinese": "逃避责任",
+              "wordKey": "責任逃れ"
+            },
+            {
+              "number": 44,
+              "japanese": "事ここに至る こと",
+              "chinese": "事已至此",
+              "wordKey": "事ここに至る"
+            },
+            {
+              "number": 45,
+              "japanese": "電源プラグ",
+              "chinese": "电源插头",
+              "wordKey": "電源プラグ"
+            },
+            {
+              "number": 46,
+              "japanese": "かび臭い",
+              "chinese": "霉味,发霉的臭味;陈腐,陈旧",
+              "wordKey": "かび臭い"
+            },
+            {
+              "number": 47,
+              "japanese": "見物(けんぶつ)",
+              "chinese": "游览，观光",
+              "wordKey": "見物"
+            },
+            {
+              "number": 48,
+              "japanese": "ごった返す がえす",
+              "chinese": "乱七八糟，拥挤不堪",
+              "wordKey": "ごった返す"
+            },
+            {
+              "number": 49,
+              "japanese": "詰めかける つ",
+              "chinese": "蜂拥而至",
+              "wordKey": "詰めかける"
+            },
+            {
+              "number": 50,
+              "japanese": "趣向を凝らす",
+              "chinese": "苦心设计 しゅこう こら",
+              "wordKey": "趣向を凝らす"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "sections": [
+        {
+          "title": "産業医を増やそう",
+          "sourcePage": 2,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "補助(ほじょ)",
+              "chinese": "补助"
+            },
+            {
+              "number": 2,
+              "japanese": "～未満(みまん)",
+              "chinese": "不到～,少于～"
+            },
+            {
+              "number": 3,
+              "japanese": "～程度(ていど)",
+              "chinese": "～左右,相当于～程度"
+            },
+            {
+              "number": 4,
+              "japanese": "わずか",
+              "chinese": "仅,仅仅只有,一点点"
+            },
+            {
+              "number": 5,
+              "japanese": "休職(きゅうしょく)",
+              "chinese": "停职"
+            },
+            {
+              "number": 6,
+              "japanese": "もはや",
+              "chinese": "(事到如今)已经"
+            },
+            {
+              "number": 7,
+              "japanese": "猶予(ゆうよ)",
+              "chinese": "犹豫;宽限，延迟,延缓"
+            },
+            {
+              "number": 8,
+              "japanese": "働き盛り(ざかり)",
+              "chinese": "青壮年时期,年富力强"
+            },
+            {
+              "number": 9,
+              "japanese": "疎(おろそ)かになる",
+              "chinese": "草率，敷衍了事"
+            },
+            {
+              "number": 10,
+              "japanese": "実績(じっせき)をあげる",
+              "chinese": "做出实绩成果"
+            },
+            {
+              "number": 11,
+              "japanese": "新卒(しんそつ)",
+              "chinese": "应届生,刚大学毕业"
+            },
+            {
+              "number": 12,
+              "japanese": "侍(さむらい)",
+              "chinese": "武士"
+            },
+            {
+              "number": 13,
+              "japanese": "剣(けん)",
+              "chinese": "剑"
+            },
+            {
+              "number": 14,
+              "japanese": "弓(ゆみ)",
+              "chinese": "弓"
+            },
+            {
+              "number": 15,
+              "japanese": "槍(やり)",
+              "chinese": "长枪,矛"
+            },
+            {
+              "number": 16,
+              "japanese": "空き缶(あきかん)",
+              "chinese": "空罐"
+            },
+            {
+              "number": 17,
+              "japanese": "自負（じふ）",
+              "chinese": "自负,自满,自大"
+            },
+            {
+              "number": 18,
+              "japanese": "雑草(ざっそう)",
+              "chinese": "杂草"
+            },
+            {
+              "number": 19,
+              "japanese": "（感情を）抑える",
+              "chinese": "压抑(感情)"
+            },
+            {
+              "number": 20,
+              "japanese": "壮大(そうだい)",
+              "chinese": "宏大,雄壮"
+            },
+            {
+              "number": 21,
+              "japanese": "傑作(けっさく)",
+              "chinese": "杰作"
+            },
+            {
+              "number": 22,
+              "japanese": "不用意(ふようい)",
+              "chinese": "不谨慎,不小心"
+            },
+            {
+              "number": 23,
+              "japanese": "閉鎖(へいさ)",
+              "chinese": "封闭,关闭"
+            },
+            {
+              "number": 24,
+              "japanese": "相次ぐ(あいつぐ)",
+              "chinese": "相继发生,接连不断"
+            },
+            {
+              "number": 25,
+              "japanese": "コスト削減(さくげん)",
+              "chinese": "削减成本"
+            },
+            {
+              "number": 26,
+              "japanese": "決勝戦(けっしょうせん)",
+              "chinese": "决胜局"
+            },
+            {
+              "number": 27,
+              "japanese": "群れ(むれ)",
+              "chinese": "群"
+            },
+            {
+              "number": 28,
+              "japanese": "柵(さく)",
+              "chinese": "栅栏"
+            },
+            {
+              "number": 29,
+              "japanese": "～に追い込む",
+              "chinese": "赶进,撵入,让…进去"
+            },
+            {
+              "number": 30,
+              "japanese": "一粒(ひとつぶ)",
+              "chinese": "一颗,一粒"
+            },
+            {
+              "number": 31,
+              "japanese": "お節介(せっかい)を焼く",
+              "chinese": "爱管闲事,多嘴多舌"
+            },
+            {
+              "number": 32,
+              "japanese": "軽(かろ)んじる",
+              "chinese": "轻视,蔑视"
+            },
+            {
+              "number": 33,
+              "japanese": "承認（しょうにん）",
+              "chinese": "承认,许可,批准"
+            },
+            {
+              "number": 34,
+              "japanese": "毒(どく)",
+              "chinese": "毒"
+            },
+            {
+              "number": 35,
+              "japanese": "相続(そうぞく)",
+              "chinese": "继承,继任"
+            },
+            {
+              "number": 36,
+              "japanese": "多数決(たすうけつ)",
+              "chinese": "多数表决"
+            },
+            {
+              "number": 37,
+              "japanese": "負傷（ふしょう）",
+              "chinese": "负伤,受伤"
+            },
+            {
+              "number": 38,
+              "japanese": "控え(ひかえ)",
+              "chinese": "副本,存根;候补,预备"
+            },
+            {
+              "number": 39,
+              "japanese": "その旨(むね)",
+              "chinese": "这样的意思"
+            },
+            {
+              "number": 40,
+              "japanese": "一丸(いちがん)",
+              "chinese": "一个整体,集中在一起"
+            },
+            {
+              "number": 41,
+              "japanese": "無茶(むちゃ)",
+              "chinese": "毫无道理,离谱;胡来"
+            },
+            {
+              "number": 42,
+              "japanese": "一助(いちじょ)",
+              "chinese": "一点儿帮助,一臂之力"
+            },
+            {
+              "number": 43,
+              "japanese": "気の毒(どく)",
+              "chinese": "(感到)可怜；过意不去"
+            },
+            {
+              "number": 44,
+              "japanese": "合間(あいま)",
+              "chinese": "余暇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "sections": [
+        {
+          "title": "飯食わぬ女房(1)",
+          "sourcePage": 3,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "けち",
+              "chinese": "小气,吝啬"
+            },
+            {
+              "number": 2,
+              "japanese": "怠(なま)ける",
+              "chinese": "懒惰,怠惰"
+            },
+            {
+              "number": 3,
+              "japanese": "大層(たいそう)",
+              "chinese": "很,非常"
+            },
+            {
+              "number": 4,
+              "japanese": "埃(ほこり)",
+              "chinese": "尘土,灰尘"
+            },
+            {
+              "number": 5,
+              "japanese": "泥棒(どろぼう)",
+              "chinese": "小偷,盗贼"
+            },
+            {
+              "number": 6,
+              "japanese": "ありさま",
+              "chinese": "样子，光景"
+            },
+            {
+              "number": 7,
+              "japanese": "気立て(きだて)",
+              "chinese": "性情,性格"
+            },
+            {
+              "number": 8,
+              "japanese": "文句(もんく)",
+              "chinese": "抱怨,牢骚,不满"
+            },
+            {
+              "number": 9,
+              "japanese": "身(み)なり",
+              "chinese": "装束,打扮,服饰"
+            },
+            {
+              "number": 10,
+              "japanese": "ホイッスル",
+              "chinese": "口哨,哨子"
+            },
+            {
+              "number": 11,
+              "japanese": "響く(ひびく)",
+              "chinese": "回响，余音缭绕"
+            },
+            {
+              "number": 12,
+              "japanese": "健闘(けんとう)",
+              "chinese": "奋斗,顽强争斗"
+            },
+            {
+              "number": 13,
+              "japanese": "称える(たたえる)",
+              "chinese": "称赞，赞扬"
+            },
+            {
+              "number": 14,
+              "japanese": "ひっくり返す",
+              "chinese": "翻个儿，颠倒"
+            },
+            {
+              "number": 15,
+              "japanese": "粉(こな)",
+              "chinese": "粉,粉末"
+            },
+            {
+              "number": 16,
+              "japanese": "脱出（だっしゅつ）",
+              "chinese": "出逃,逃脱,逃亡"
+            },
+            {
+              "number": 17,
+              "japanese": "押(お)し入(い)れ",
+              "chinese": "壁橱,壁柜"
+            },
+            {
+              "number": 18,
+              "japanese": "しわ",
+              "chinese": "皱纹,褶皱"
+            },
+            {
+              "number": 19,
+              "japanese": "弄る(いじる)",
+              "chinese": "摆弄，捣鼓"
+            },
+            {
+              "number": 20,
+              "japanese": "引きとめる",
+              "chinese": "阻止,挽回,叫回"
+            },
+            {
+              "number": 21,
+              "japanese": "携(たずさ)える",
+              "chinese": "携带,带领,携手,协同"
+            },
+            {
+              "number": 22,
+              "japanese": "のめり込む",
+              "chinese": "陷入，沉湎"
+            },
+            {
+              "number": 23,
+              "japanese": "順調(じゅんちょう)に",
+              "chinese": "顺利地,顺当地,如意地"
+            },
+            {
+              "number": 24,
+              "japanese": "売り上げを伸ばす",
+              "chinese": "提高销售额"
+            },
+            {
+              "number": 25,
+              "japanese": "冷(ひ)ややかな",
+              "chinese": "冷淡的,冷漠的;冷静的;冷的"
+            },
+            {
+              "number": 26,
+              "japanese": "幼(おさな)い",
+              "chinese": "幼小,年幼"
+            },
+            {
+              "number": 27,
+              "japanese": "控(ひか)える",
+              "chinese": "节制,抑制,控制;临近"
+            },
+            {
+              "number": 28,
+              "japanese": "願書(がんしょ)",
+              "chinese": "志愿书,申请书"
+            },
+            {
+              "number": 29,
+              "japanese": "消印（けしいん）",
+              "chinese": "邮戳"
+            },
+            {
+              "number": 30,
+              "japanese": "ルーズ",
+              "chinese": "散漫,吊儿郎当"
+            },
+            {
+              "number": 31,
+              "japanese": "方々(ほうぼう)",
+              "chinese": "到处,这里那里"
+            },
+            {
+              "number": 32,
+              "japanese": "あげくの果てに",
+              "chinese": "结果,最终"
+            },
+            {
+              "number": 33,
+              "japanese": "解雇（かいこ）",
+              "chinese": "解雇,开除"
+            },
+            {
+              "number": 34,
+              "japanese": "口癖(くちぐせ)",
+              "chinese": "口头禅"
+            },
+            {
+              "number": 35,
+              "japanese": "詐欺(さぎ)",
+              "chinese": "欺诈"
+            },
+            {
+              "number": 36,
+              "japanese": "呆れる(あきれる)",
+              "chinese": "吃惊，呆若木鸡"
+            },
+            {
+              "number": 37,
+              "japanese": "コンタクト",
+              "chinese": "隐形眼镜"
+            },
+            {
+              "number": 38,
+              "japanese": "息抜き(いきぬき)",
+              "chinese": "稍作休息,歇口气"
+            },
+            {
+              "number": 39,
+              "japanese": "息がつまる",
+              "chinese": "呼吸困难，紧张"
+            },
+            {
+              "number": 40,
+              "japanese": "銃(じゅう)",
+              "chinese": "枪,手枪"
+            },
+            {
+              "number": 41,
+              "japanese": "定評(ていひょう)がある",
+              "chinese": "有定论,有公论"
+            },
+            {
+              "number": 42,
+              "japanese": "犯行(はんこう)",
+              "chinese": "罪行,作案"
+            },
+            {
+              "number": 43,
+              "japanese": "手口(てぐち)",
+              "chinese": "手法,方法,手段"
+            },
+            {
+              "number": 44,
+              "japanese": "繊細(せんさい)",
+              "chinese": "纤细,柔嫩,细致"
+            },
+            {
+              "number": 45,
+              "japanese": "腰(こし)",
+              "chinese": "腰"
+            },
+            {
+              "number": 46,
+              "japanese": "寝返りを打つ",
+              "chinese": "睡着翻身"
+            }
+          ]
+        },
+        {
+          "title": "飯食わぬ女房(2)",
+          "sourcePage": 4,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "自慢話(ばなし)",
+              "chinese": "得意的话,吹牛皮,炫耀"
+            },
+            {
+              "number": 2,
+              "japanese": "化け物(ばけもの)",
+              "chinese": "怪物,妖怪"
+            },
+            {
+              "number": 3,
+              "japanese": "こっそり",
+              "chinese": "悄悄地,偷偷地"
+            },
+            {
+              "number": 4,
+              "japanese": "ごろごろする",
+              "chinese": "无所事事,闲呆,游手好闲"
+            },
+            {
+              "number": 5,
+              "japanese": "釜(かま)",
+              "chinese": "锅"
+            },
+            {
+              "number": 6,
+              "japanese": "炊(た)く",
+              "chinese": "煮饭,烧饭"
+            },
+            {
+              "number": 7,
+              "japanese": "解く(ほどく)",
+              "chinese": "解开，拆开"
+            },
+            {
+              "number": 8,
+              "japanese": "むしゃむしゃと食べる",
+              "chinese": "狼吞虎咽地吃,大口大口地吃"
+            },
+            {
+              "number": 9,
+              "japanese": "悲鳴(ひめい)",
+              "chinese": "悲鸣,惨叫"
+            },
+            {
+              "number": 10,
+              "japanese": "睨む(にらむ)",
+              "chinese": "瞪眼，怒目而视，注视"
+            },
+            {
+              "number": 11,
+              "japanese": "内気(うちき)",
+              "chinese": "腼腆，羞怯"
+            },
+            {
+              "number": 12,
+              "japanese": "無口(むくち)",
+              "chinese": "寡言，不爱说话"
+            },
+            {
+              "number": 13,
+              "japanese": "強盗(ごうとう)",
+              "chinese": "强盗"
+            },
+            {
+              "number": 14,
+              "japanese": "ブランド",
+              "chinese": "牌子,商标"
+            },
+            {
+              "number": 15,
+              "japanese": "偽物(にせもの)",
+              "chinese": "假货"
+            },
+            {
+              "number": 16,
+              "japanese": "伏(ふ)せる",
+              "chinese": "伏,趴,朝下"
+            },
+            {
+              "number": 17,
+              "japanese": "苦(くる)しむ",
+              "chinese": "感到痛苦,受折磨;伤脑筋"
+            },
+            {
+              "number": 18,
+              "japanese": "器(うつわ)",
+              "chinese": "容器,器皿"
+            },
+            {
+              "number": 19,
+              "japanese": "ついていない",
+              "chinese": "不走运，水逆"
+            },
+            {
+              "number": 20,
+              "japanese": "なだれ込む",
+              "chinese": "(像雪崩一样)蜂拥而至"
+            },
+            {
+              "number": 21,
+              "japanese": "刀(かたな)",
+              "chinese": "刀,武士刀"
+            },
+            {
+              "number": 22,
+              "japanese": "魔法使い(まほうつかい)",
+              "chinese": "巫师，魔法师"
+            },
+            {
+              "number": 23,
+              "japanese": "呪文(じゅもん)",
+              "chinese": "咒语"
+            },
+            {
+              "number": 24,
+              "japanese": "唱(とな)える",
+              "chinese": "吟唱"
+            },
+            {
+              "number": 25,
+              "japanese": "たちまち",
+              "chinese": "突然,马上,转瞬间"
+            },
+            {
+              "number": 26,
+              "japanese": "刑事(けいじ)",
+              "chinese": "刑警;刑事"
+            },
+            {
+              "number": 27,
+              "japanese": "鐘(かね)",
+              "chinese": "铃,钟,钟声"
+            },
+            {
+              "number": 28,
+              "japanese": "待ち構(かま)える",
+              "chinese": "等候,等待"
+            },
+            {
+              "number": 29,
+              "japanese": "箱詰め(はこづめ)",
+              "chinese": "装箱,装盒"
+            },
+            {
+              "number": 30,
+              "japanese": "出荷(しゅっか）",
+              "chinese": "出货,发货"
+            },
+            {
+              "number": 31,
+              "japanese": "雪を払う",
+              "chinese": "除去,拍去(雪)"
+            },
+            {
+              "number": 32,
+              "japanese": "散(ち)らかす",
+              "chinese": "乱扔,弄得乱七八糟"
+            },
+            {
+              "number": 33,
+              "japanese": "シーンと静まり返る",
+              "chinese": "鸦雀无声,万籁俱寂"
+            },
+            {
+              "number": 34,
+              "japanese": "入荷（にゅうか）",
+              "chinese": "入荷,进货;到货"
+            },
+            {
+              "number": 35,
+              "japanese": "品薄(しなうす)",
+              "chinese": "缺货,库存不足"
+            },
+            {
+              "number": 36,
+              "japanese": "過失(かしつ)",
+              "chinese": "过失"
+            },
+            {
+              "number": 37,
+              "japanese": "盲目(もうもく)",
+              "chinese": "盲目"
+            },
+            {
+              "number": 38,
+              "japanese": "奏(かな)でる",
+              "chinese": "演奏,弹奏"
+            },
+            {
+              "number": 39,
+              "japanese": "心を震(ふる)わす",
+              "chinese": "震动,震撼(心灵)"
+            },
+            {
+              "number": 40,
+              "japanese": "アトリエ",
+              "chinese": "摄影棚,画室，雕塑室"
+            },
+            {
+              "number": 41,
+              "japanese": "こもる",
+              "chinese": "闭门不出；充满"
+            },
+            {
+              "number": 42,
+              "japanese": "一気(いっき)に",
+              "chinese": "一口气地,不停地"
+            },
+            {
+              "number": 43,
+              "japanese": "殴る(なぐる)",
+              "chinese": "殴打,揍,打"
+            },
+            {
+              "number": 44,
+              "japanese": "罪を償う(つぐなう)",
+              "chinese": "抵罪，赎罪"
+            },
+            {
+              "number": 45,
+              "japanese": "争う(あらそう)",
+              "chinese": "竞争，争斗"
+            },
+            {
+              "number": 46,
+              "japanese": "やむを得ぬ",
+              "chinese": "不得已，无奈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "sections": [
+        {
+          "title": "上司との付き合い方(1)",
+          "sourcePage": 5,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "一人前(いちにんまえ)",
+              "chinese": "独立,独当一面;一人分"
+            },
+            {
+              "number": 2,
+              "japanese": "待遇(たいぐう)",
+              "chinese": "招待，待遇"
+            },
+            {
+              "number": 3,
+              "japanese": "指示を仰(あお)ぐ",
+              "chinese": "请求指示"
+            },
+            {
+              "number": 4,
+              "japanese": "コマーシャル",
+              "chinese": "商业,商业宣传"
+            },
+            {
+              "number": 5,
+              "japanese": "末(すえ)の～",
+              "chinese": "末代～；最后一代～"
+            },
+            {
+              "number": 6,
+              "japanese": "迅速(じんそく)に",
+              "chinese": "迅速地"
+            },
+            {
+              "number": 7,
+              "japanese": "熱中症(ねっちゅうしょう)",
+              "chinese": "中暑"
+            },
+            {
+              "number": 8,
+              "japanese": "コンクリート",
+              "chinese": "混凝土,水泥"
+            },
+            {
+              "number": 9,
+              "japanese": "罰金(ばっきん)が科(か)せられる",
+              "chinese": "被罚款"
+            },
+            {
+              "number": 10,
+              "japanese": "次期(じき)～",
+              "chinese": "下期,下届～"
+            },
+            {
+              "number": 11,
+              "japanese": "渡り鳥(わたりどり)",
+              "chinese": "候鸟"
+            },
+            {
+              "number": 12,
+              "japanese": "病弱(びょうじゃく)",
+              "chinese": "身体虚弱"
+            },
+            {
+              "number": 13,
+              "japanese": "顧客(こきゃく)",
+              "chinese": "顾客"
+            },
+            {
+              "number": 14,
+              "japanese": "澄む(すむ)",
+              "chinese": "清澈，清脆"
+            }
+          ]
+        },
+        {
+          "title": "上司との付き合い方(2)",
+          "sourcePage": 6,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "ベテラン",
+              "chinese": "专家,老手,老练的人"
+            },
+            {
+              "number": 2,
+              "japanese": "キャリアライフ",
+              "chinese": "职业生涯"
+            },
+            {
+              "number": 3,
+              "japanese": "気晴らし(きばらし)",
+              "chinese": "消愁解闷,散心,消遣"
+            },
+            {
+              "number": 4,
+              "japanese": "定着（ていちゃく）",
+              "chinese": "安定,固定,附着;定居"
+            },
+            {
+              "number": 5,
+              "japanese": "面倒見(めんどうみ)",
+              "chinese": "照料，关照"
+            },
+            {
+              "number": 6,
+              "japanese": "緻密(ちみつ)",
+              "chinese": "细致,细腻,周密"
+            },
+            {
+              "number": 7,
+              "japanese": "思いやり",
+              "chinese": "关怀,体谅,同情"
+            },
+            {
+              "number": 8,
+              "japanese": "百害あって一利なし",
+              "chinese": "有百害而无一利"
+            },
+            {
+              "number": 9,
+              "japanese": "売れ行き(うれゆき)",
+              "chinese": "销路,销售(情况)"
+            },
+            {
+              "number": 10,
+              "japanese": "了承（りょうしょう）",
+              "chinese": "理解,同意,谅解"
+            },
+            {
+              "number": 11,
+              "japanese": "義務づける",
+              "chinese": "作为义务强制去做"
+            },
+            {
+              "number": 12,
+              "japanese": "リハビリ",
+              "chinese": "康复训练"
+            },
+            {
+              "number": 13,
+              "japanese": "期待外れ(はずれ)",
+              "chinese": "期待落空"
+            },
+            {
+              "number": 14,
+              "japanese": "柄(がら)",
+              "chinese": "花纹,图案,花样"
+            },
+            {
+              "number": 15,
+              "japanese": "センス",
+              "chinese": "品味"
+            },
+            {
+              "number": 16,
+              "japanese": "サービスエリア",
+              "chinese": "服务站"
+            },
+            {
+              "number": 17,
+              "japanese": "テーマパーク",
+              "chinese": "主题公园"
+            },
+            {
+              "number": 18,
+              "japanese": "陰(かげ)の〜",
+              "chinese": "背地里，暗中，暗地"
+            },
+            {
+              "number": 19,
+              "japanese": "ストレッチ",
+              "chinese": "伸展,伸展运动"
+            },
+            {
+              "number": 20,
+              "japanese": "ボクシング",
+              "chinese": "拳击"
+            },
+            {
+              "number": 21,
+              "japanese": "砂浜(すなはま)",
+              "chinese": "海滨沙滩"
+            },
+            {
+              "number": 22,
+              "japanese": "街並み(まちなみ)",
+              "chinese": "街景，沿街建筑"
+            },
+            {
+              "number": 23,
+              "japanese": "リゾート",
+              "chinese": "游览地，疗养地"
+            },
+            {
+              "number": 24,
+              "japanese": "図る(はかる)",
+              "chinese": "图谋，策划"
+            },
+            {
+              "number": 25,
+              "japanese": "人気に火がつく",
+              "chinese": "人气火爆"
+            },
+            {
+              "number": 26,
+              "japanese": "嘆く(なげく)",
+              "chinese": "叹息，感叹"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 5,
+      "sections": [
+        {
+          "title": "転職(1)",
+          "sourcePage": 7,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "シナリオ",
+              "chinese": "脚本，剧本"
+            },
+            {
+              "number": 2,
+              "japanese": "見出し(みだし)",
+              "chinese": "标题,题目;索引"
+            },
+            {
+              "number": 3,
+              "japanese": "宿直(しゅくちょく)",
+              "chinese": "值班"
+            },
+            {
+              "number": 4,
+              "japanese": "居眠り(いねむり)",
+              "chinese": "瞌睡,打盹"
+            },
+            {
+              "number": 5,
+              "japanese": "挟む(はさむ)",
+              "chinese": "插入，插话；隔着，夹着"
+            },
+            {
+              "number": 6,
+              "japanese": "間(ま)が抜けている",
+              "chinese": "愚蠢,糊涂,疏忽大意,马虎"
+            },
+            {
+              "number": 7,
+              "japanese": "言い訳(わけ)",
+              "chinese": "借口,理由"
+            },
+            {
+              "number": 8,
+              "japanese": "納得（なっとく）",
+              "chinese": "接受,认可,信服,理解"
+            },
+            {
+              "number": 9,
+              "japanese": "くぐり抜ける",
+              "chinese": "逃过,通过"
+            },
+            {
+              "number": 10,
+              "japanese": "マスコミ",
+              "chinese": "大众传媒"
+            },
+            {
+              "number": 11,
+              "japanese": "騒ぐ(さわぐ)",
+              "chinese": "吵闹,喧闹"
+            },
+            {
+              "number": 12,
+              "japanese": "オアシス",
+              "chinese": "绿洲"
+            },
+            {
+              "number": 13,
+              "japanese": "嵐(あらし)",
+              "chinese": "暴风雨,风暴"
+            },
+            {
+              "number": 14,
+              "japanese": "慰め(なぐさめ)",
+              "chinese": "安慰,慰藉"
+            },
+            {
+              "number": 15,
+              "japanese": "物足りない",
+              "chinese": "不够完美,有缺陷;不过瘾"
+            },
+            {
+              "number": 16,
+              "japanese": "ストレート",
+              "chinese": "直的,直接,率直"
+            },
+            {
+              "number": 17,
+              "japanese": "庶民(しょみん)",
+              "chinese": "大众"
+            },
+            {
+              "number": 18,
+              "japanese": "分析が甘い",
+              "chinese": "分析得浅、天真"
+            },
+            {
+              "number": 19,
+              "japanese": "最中(さなか)",
+              "chinese": "最高潮，最盛"
+            },
+            {
+              "number": 20,
+              "japanese": "サーフィン",
+              "chinese": "冲浪"
+            },
+            {
+              "number": 21,
+              "japanese": "無謀(むぼう)",
+              "chinese": "无谋,胡乱的,鲁莽的"
+            },
+            {
+              "number": 22,
+              "japanese": "大(おお)らか",
+              "chinese": "落落大方,豁达,胸襟开阔"
+            },
+            {
+              "number": 23,
+              "japanese": "だらしない",
+              "chinese": "懒散,不拘小节;不检点"
+            },
+            {
+              "number": 24,
+              "japanese": "値段が手頃だ",
+              "chinese": "价格合适(自己的消费能力)"
+            },
+            {
+              "number": 25,
+              "japanese": "今一つ",
+              "chinese": "不完美,差一点"
+            },
+            {
+              "number": 26,
+              "japanese": "トンネル",
+              "chinese": "隧道"
+            },
+            {
+              "number": 27,
+              "japanese": "落書き(らくがき)",
+              "chinese": "涂鸦,乱涂乱画"
+            },
+            {
+              "number": 28,
+              "japanese": "エスカレート（する）",
+              "chinese": "逐步上升,逐步升级"
+            },
+            {
+              "number": 29,
+              "japanese": "堂々(どうどう)と",
+              "chinese": "坦然地,堂堂地;光明正大地"
+            },
+            {
+              "number": 30,
+              "japanese": "いたずら",
+              "chinese": "淘气,恶作剧"
+            },
+            {
+              "number": 31,
+              "japanese": "めちゃくちゃ",
+              "chinese": "乱七八糟,杂乱无章;荒唐,胡闹"
+            },
+            {
+              "number": 32,
+              "japanese": "面白半分(おもしろはんぶん)",
+              "chinese": "半开玩笑地,闹着玩的,凑热闹"
+            },
+            {
+              "number": 33,
+              "japanese": "甥(おい)",
+              "chinese": "外甥"
+            },
+            {
+              "number": 34,
+              "japanese": "さぼる",
+              "chinese": "缺勤,旷工,旷课"
+            },
+            {
+              "number": 35,
+              "japanese": "放(ほう)っておく",
+              "chinese": "放一边,暂且搁置"
+            },
+            {
+              "number": 36,
+              "japanese": "寄付金(きふきん)",
+              "chinese": "捐款"
+            },
+            {
+              "number": 37,
+              "japanese": "着服（ちゃくふく）",
+              "chinese": "贪污,侵吞,侵占"
+            },
+            {
+              "number": 38,
+              "japanese": "くだらない",
+              "chinese": "无聊的,无用的,无意义的"
+            },
+            {
+              "number": 39,
+              "japanese": "親不幸(おやふこう)",
+              "chinese": "不孝,不孝顺"
+            },
+            {
+              "number": 40,
+              "japanese": "腐(くさ)らせる",
+              "chinese": "使…腐烂"
+            },
+            {
+              "number": 41,
+              "japanese": "図々(ずうずう)しい",
+              "chinese": "厚颜无耻的,厚脸皮"
+            },
+            {
+              "number": 42,
+              "japanese": "スニーカー",
+              "chinese": "运动鞋"
+            },
+            {
+              "number": 43,
+              "japanese": "サンダル",
+              "chinese": "凉鞋"
+            },
+            {
+              "number": 44,
+              "japanese": "ハイヒール",
+              "chinese": "高跟鞋"
+            },
+            {
+              "number": 45,
+              "japanese": "まいる",
+              "chinese": "认输；受不了，吃不消"
+            },
+            {
+              "number": 46,
+              "japanese": "検討(けんとう)",
+              "chinese": "讨论中"
+            },
+            {
+              "number": 47,
+              "japanese": "洗練（せんれん）",
+              "chinese": "洗练,精炼;考究"
+            },
+            {
+              "number": 48,
+              "japanese": "欠陥(けっかん)",
+              "chinese": "缺陷,欠缺"
+            },
+            {
+              "number": 49,
+              "japanese": "ヒット（する）",
+              "chinese": "大受欢迎,热销"
+            },
+            {
+              "number": 50,
+              "japanese": "杜撰(ずさん)な",
+              "chinese": "粗糙,不细致的;杜撰,胡乱编造"
+            },
+            {
+              "number": 51,
+              "japanese": "公(おおやけ)",
+              "chinese": "公开;公共,公众"
+            },
+            {
+              "number": 52,
+              "japanese": "緊迫（きんぱく）",
+              "chinese": "紧张,紧迫,紧急,"
+            },
+            {
+              "number": 53,
+              "japanese": "匿名(とくめい)",
+              "chinese": "匿名"
+            },
+            {
+              "number": 54,
+              "japanese": "きれい好(ず)き",
+              "chinese": "爱干净，有洁癖"
+            }
+          ]
+        },
+        {
+          "title": "転職(2)",
+          "sourcePage": 8,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "ガードマン",
+              "chinese": "警卫,保镖,护卫"
+            },
+            {
+              "number": 2,
+              "japanese": "怒鳴る(どなる)",
+              "chinese": "大声喊叫,怒骂"
+            },
+            {
+              "number": 3,
+              "japanese": "連中(れんちゅう)",
+              "chinese": "同伴,同伙,成员们"
+            },
+            {
+              "number": 4,
+              "japanese": "群(むら)がる",
+              "chinese": "聚集,聚"
+            },
+            {
+              "number": 5,
+              "japanese": "人件費を抑える",
+              "chinese": "控制人工费"
+            },
+            {
+              "number": 6,
+              "japanese": "裏目(うらめ)に出る",
+              "chinese": "适得其反,事与愿违"
+            },
+            {
+              "number": 7,
+              "japanese": "いっそのこと",
+              "chinese": "干脆，索性"
+            },
+            {
+              "number": 8,
+              "japanese": "真実を明(あ)かす",
+              "chinese": "说出真相"
+            },
+            {
+              "number": 9,
+              "japanese": "～の手前(てまえ)",
+              "chinese": "～跟前儿"
+            },
+            {
+              "number": 10,
+              "japanese": "取り調べ",
+              "chinese": "调查,审讯"
+            },
+            {
+              "number": 11,
+              "japanese": "正体(しょうたい)",
+              "chinese": "原形,真面目,本尊"
+            },
+            {
+              "number": 12,
+              "japanese": "バレる",
+              "chinese": "露馅，败露"
+            },
+            {
+              "number": 13,
+              "japanese": "誰彼なしに",
+              "chinese": "任何人，无论谁"
+            },
+            {
+              "number": 14,
+              "japanese": "床（ゆか）",
+              "chinese": "地板,地上"
+            },
+            {
+              "number": 15,
+              "japanese": "ビリ",
+              "chinese": "最后,末尾,倒数第一"
+            },
+            {
+              "number": 16,
+              "japanese": "合宿(がっしゅく)",
+              "chinese": "共同寄宿,合宿,集训"
+            },
+            {
+              "number": 17,
+              "japanese": "手入れ(ていれ)",
+              "chinese": "维修,修整"
+            },
+            {
+              "number": 18,
+              "japanese": "稚拙(ちせつ)",
+              "chinese": "幼稚且拙劣"
+            },
+            {
+              "number": 19,
+              "japanese": "人目も構わず",
+              "chinese": "不在乎别人的眼目"
+            },
+            {
+              "number": 20,
+              "japanese": "下請け(したうけ)",
+              "chinese": "转包，分包"
+            },
+            {
+              "number": 21,
+              "japanese": "軒並み(のきなみ)",
+              "chinese": "鳞次栉比；挨家挨户"
+            },
+            {
+              "number": 22,
+              "japanese": "つぶれる",
+              "chinese": "倒闭,破产"
+            },
+            {
+              "number": 23,
+              "japanese": "転覆（てんぷく）",
+              "chinese": "颠覆,翻倒,推翻"
+            },
+            {
+              "number": 24,
+              "japanese": "言いふらす",
+              "chinese": "扬言，散布"
+            },
+            {
+              "number": 25,
+              "japanese": "コンタクトをとる",
+              "chinese": "接触,联络,联系"
+            },
+            {
+              "number": 26,
+              "japanese": "～に備(そな)える",
+              "chinese": "以防～"
+            },
+            {
+              "number": 27,
+              "japanese": "生意気(なまいき)",
+              "chinese": "狂妄自大，骄横"
+            }
+          ]
+        },
+        {
+          "title": "転職(3)",
+          "sourcePage": 9,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "相棒(あいぼう)",
+              "chinese": "伙伴,搭档"
+            },
+            {
+              "number": 2,
+              "japanese": "外す(はずす)",
+              "chinese": "取下,脱掉"
+            },
+            {
+              "number": 3,
+              "japanese": "額(ひたい)",
+              "chinese": "额头,脑门"
+            },
+            {
+              "number": 4,
+              "japanese": "行方不明(ゆくえふめい)",
+              "chinese": "去向不明,失踪"
+            },
+            {
+              "number": 5,
+              "japanese": "プライバシー",
+              "chinese": "隐私,私人空间,私生活"
+            },
+            {
+              "number": 6,
+              "japanese": "飛躍的に（ひやくてきに）",
+              "chinese": "飞跃性地"
+            },
+            {
+              "number": 7,
+              "japanese": "怠る（おこたる）",
+              "chinese": "懒惰,怠慢,疏忽大意"
+            },
+            {
+              "number": 8,
+              "japanese": "復帰(ふっき)",
+              "chinese": "恢复,复原,重回"
+            },
+            {
+              "number": 9,
+              "japanese": "大幅に(おおはばに)",
+              "chinese": "大幅地"
+            },
+            {
+              "number": 10,
+              "japanese": "五分(ごぶ)咲き",
+              "chinese": "(花)半开,含苞待放"
+            },
+            {
+              "number": 11,
+              "japanese": "見頃(みごろ)",
+              "chinese": "正值观赏时节"
+            },
+            {
+              "number": 12,
+              "japanese": "納品（のうひん）",
+              "chinese": "交货,交付"
+            },
+            {
+              "number": 13,
+              "japanese": "週末をつぶす",
+              "chinese": "消磨周末的时光"
+            },
+            {
+              "number": 14,
+              "japanese": "肩が凝(こ)る",
+              "chinese": "肩膀酸疼"
+            },
+            {
+              "number": 15,
+              "japanese": "取引先(とりひきさき)",
+              "chinese": "客户"
+            },
+            {
+              "number": 16,
+              "japanese": "粗悪(そあく)",
+              "chinese": "低劣,坏,差"
+            },
+            {
+              "number": 17,
+              "japanese": "不祥事(ふしょうじ)",
+              "chinese": "丑闻,不好的事情"
+            },
+            {
+              "number": 18,
+              "japanese": "愚痴(ぐち)",
+              "chinese": "抱怨，牢骚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 6,
+      "sections": [
+        {
+          "title": "研修を終えて",
+          "sourcePage": 10,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "立ち上がる",
+              "chinese": "起立；着手，开始"
+            },
+            {
+              "number": 2,
+              "japanese": "恐縮(きょうしゅく)",
+              "chinese": "不好意思,过意不去"
+            },
+            {
+              "number": 3,
+              "japanese": "足元(あしもと)",
+              "chinese": "脚边,脚下,步伐"
+            },
+            {
+              "number": 4,
+              "japanese": "多忙(たぼう)",
+              "chinese": "百忙"
+            },
+            {
+              "number": 5,
+              "japanese": "時間を割(さ)く",
+              "chinese": "匀出时间"
+            },
+            {
+              "number": 6,
+              "japanese": "権威(けんい)",
+              "chinese": "权威,威信"
+            },
+            {
+              "number": 7,
+              "japanese": "赤面(せきめん)",
+              "chinese": "脸红,害臊,惭愧"
+            },
+            {
+              "number": 8,
+              "japanese": "かくも",
+              "chinese": "如此"
+            },
+            {
+              "number": 9,
+              "japanese": "一気(いっき)飲み",
+              "chinese": "(酒)一口干"
+            },
+            {
+              "number": 10,
+              "japanese": "愛顧(あいこ)",
+              "chinese": "眷顾,惠顾,光顾"
+            },
+            {
+              "number": 11,
+              "japanese": "何分(なにぶん)にも",
+              "chinese": "只是因为,毕竟,到底"
+            },
+            {
+              "number": 12,
+              "japanese": "お悔(く)やみ",
+              "chinese": "慰问,哀悼；懊悔"
+            },
+            {
+              "number": 13,
+              "japanese": "尽力(じんりょく)",
+              "chinese": "帮忙,协助,尽力,努力"
+            },
+            {
+              "number": 14,
+              "japanese": "賜る(たまわる)",
+              "chinese": "蒙受赏赐,赐予"
+            },
+            {
+              "number": 15,
+              "japanese": "環境を整(ととの)える",
+              "chinese": "打造/营造…环境"
+            },
+            {
+              "number": 16,
+              "japanese": "アマチュア",
+              "chinese": "业余爱好者,门外汉"
+            },
+            {
+              "number": 17,
+              "japanese": "正々堂々(せいせいどうどう)と",
+              "chinese": "堂堂正正地,光明正大地"
+            },
+            {
+              "number": 18,
+              "japanese": "～に値(あたい)する",
+              "chinese": "值～钱,有～价值"
+            },
+            {
+              "number": 19,
+              "japanese": "心細い(こころぼそい)",
+              "chinese": "孤单,沮丧;心里没底"
+            },
+            {
+              "number": 20,
+              "japanese": "頼(たの)もしい",
+              "chinese": "可靠地,靠得住的"
+            },
+            {
+              "number": 21,
+              "japanese": "情(なさ)けない",
+              "chinese": "可悲,令人遗憾;悲惨"
+            },
+            {
+              "number": 22,
+              "japanese": "〜したての頃",
+              "chinese": "刚刚…的时候"
+            },
+            {
+              "number": 23,
+              "japanese": "務まる(つとまる)",
+              "chinese": "能胜任，干得来"
+            },
+            {
+              "number": 24,
+              "japanese": "素人(しろうと)",
+              "chinese": "外行，小白"
+            },
+            {
+              "number": 25,
+              "japanese": "いつにない",
+              "chinese": "与往常不同"
+            },
+            {
+              "number": 26,
+              "japanese": "去る(さる)",
+              "chinese": "离开"
+            },
+            {
+              "number": 27,
+              "japanese": "締めくくり",
+              "chinese": "总结，概括"
+            },
+            {
+              "number": 28,
+              "japanese": "脅かす(おびやかす)",
+              "chinese": "威吓，威逼；危及，威协"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 7,
+      "sections": [
+        {
+          "title": "さすが本田君(1)",
+          "sourcePage": 11,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "お遣(つか)い",
+              "chinese": "差使"
+            },
+            {
+              "number": 2,
+              "japanese": "カタログ",
+              "chinese": "产品目录,目录清单"
+            },
+            {
+              "number": 3,
+              "japanese": "ぐずぐず（する）",
+              "chinese": "慢吞吞,磨磨蹭蹭"
+            },
+            {
+              "number": 4,
+              "japanese": "ライバル",
+              "chinese": "竞争对手"
+            },
+            {
+              "number": 5,
+              "japanese": "先方(せんぽう)",
+              "chinese": "对方"
+            },
+            {
+              "number": 6,
+              "japanese": "絶好(ぜっこう)",
+              "chinese": "绝佳,极好,最好"
+            },
+            {
+              "number": 7,
+              "japanese": "リース",
+              "chinese": "租赁"
+            },
+            {
+              "number": 8,
+              "japanese": "厚着(あつぎ)",
+              "chinese": "穿得厚"
+            },
+            {
+              "number": 9,
+              "japanese": "折(お)れる",
+              "chinese": "折断"
+            },
+            {
+              "number": 10,
+              "japanese": "墜落（ついらく）",
+              "chinese": "坠落"
+            },
+            {
+              "number": 11,
+              "japanese": "勢い(いきおい)",
+              "chinese": "势头，气势，劲头"
+            },
+            {
+              "number": 12,
+              "japanese": "噛(か)む",
+              "chinese": "咬,咀嚼"
+            },
+            {
+              "number": 13,
+              "japanese": "吠(ほ)える",
+              "chinese": "吼叫,咆哮"
+            },
+            {
+              "number": 14,
+              "japanese": "入れ替え",
+              "chinese": "替换,更改"
+            },
+            {
+              "number": 15,
+              "japanese": "破(は)たん",
+              "chinese": "失败,破裂；破产"
+            },
+            {
+              "number": 16,
+              "japanese": "バッテリー",
+              "chinese": "电池"
+            },
+            {
+              "number": 17,
+              "japanese": "トーナメント",
+              "chinese": "淘汰赛"
+            },
+            {
+              "number": 18,
+              "japanese": "～盛(さか)り",
+              "chinese": "最～之时"
+            },
+            {
+              "number": 19,
+              "japanese": "内緒(ないしょ)",
+              "chinese": "秘密"
+            },
+            {
+              "number": 20,
+              "japanese": "こじれる",
+              "chinese": "复杂化,恶化"
+            },
+            {
+              "number": 21,
+              "japanese": "フリーズする",
+              "chinese": "死机"
+            },
+            {
+              "number": 22,
+              "japanese": "しっぽ",
+              "chinese": "尾巴"
+            },
+            {
+              "number": 23,
+              "japanese": "振(ふ)る",
+              "chinese": "摇,晃"
+            },
+            {
+              "number": 24,
+              "japanese": "留守番",
+              "chinese": "看家，看家人"
+            },
+            {
+              "number": 25,
+              "japanese": "地位に就(つ)く",
+              "chinese": "达到(地位),就任(职位)"
+            },
+            {
+              "number": 26,
+              "japanese": "無理(むり)やり",
+              "chinese": "勉强"
+            },
+            {
+              "number": 27,
+              "japanese": "お見合い(おみあい)",
+              "chinese": "相亲"
+            },
+            {
+              "number": 28,
+              "japanese": "流行(はや)る",
+              "chinese": "流行"
+            },
+            {
+              "number": 29,
+              "japanese": "家を継(つ)ぐ",
+              "chinese": "继承房子"
+            },
+            {
+              "number": 30,
+              "japanese": "裁判に訴(うった)える",
+              "chinese": "起诉"
+            }
+          ]
+        },
+        {
+          "title": "さすが本田君(2)",
+          "sourcePage": 12,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "アポ",
+              "chinese": "约定"
+            },
+            {
+              "number": 2,
+              "japanese": "片っ端(かたっぱし)から",
+              "chinese": "依次,逐一"
+            },
+            {
+              "number": 3,
+              "japanese": "パンフレット",
+              "chinese": "手册"
+            },
+            {
+              "number": 4,
+              "japanese": "儲(もう)かる",
+              "chinese": "赚钱,赚"
+            },
+            {
+              "number": 5,
+              "japanese": "立ち直り",
+              "chinese": "恢复，变好"
+            },
+            {
+              "number": 6,
+              "japanese": "退屈(たいくつ)",
+              "chinese": "无聊的,百无聊赖的"
+            },
+            {
+              "number": 7,
+              "japanese": "殻(から)",
+              "chinese": "外壳，壳"
+            },
+            {
+              "number": 8,
+              "japanese": "大家(おおや)",
+              "chinese": "房东"
+            },
+            {
+              "number": 9,
+              "japanese": "やけになる",
+              "chinese": "自暴自弃"
+            },
+            {
+              "number": 10,
+              "japanese": "気が知れない",
+              "chinese": "摸不透心思，难以捉摸"
+            },
+            {
+              "number": 11,
+              "japanese": "無実(むじつ)",
+              "chinese": "无辜,清白"
+            },
+            {
+              "number": 12,
+              "japanese": "いざという時",
+              "chinese": "紧急时刻，一旦有情况"
+            },
+            {
+              "number": 13,
+              "japanese": "特許(とっきょ)",
+              "chinese": "特许，专利权"
+            },
+            {
+              "number": 14,
+              "japanese": "嘆(なげ)かわしい",
+              "chinese": "可悲，可叹的"
+            },
+            {
+              "number": 15,
+              "japanese": "小言(こごと)",
+              "chinese": "训斥，斥责"
+            },
+            {
+              "number": 16,
+              "japanese": "没頭(ぼっとう)",
+              "chinese": "埋头，热衷"
+            },
+            {
+              "number": 17,
+              "japanese": "気がかり",
+              "chinese": "担心，挂念"
+            },
+            {
+              "number": 18,
+              "japanese": "源(みなもと)",
+              "chinese": "源头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 8,
+      "sections": [
+        {
+          "title": "楽園の萌花（1）",
+          "sourcePage": 13,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "物心がつく",
+              "chinese": "懂事,懂得人情世"
+            },
+            {
+              "number": 2,
+              "japanese": "赤ん坊",
+              "chinese": "婴儿"
+            },
+            {
+              "number": 3,
+              "japanese": "引き取る",
+              "chinese": "领养，收养"
+            },
+            {
+              "number": 4,
+              "japanese": "接戦(せっせん)",
+              "chinese": "难分胜负的激烈斗争"
+            },
+            {
+              "number": 5,
+              "japanese": "人ごみ",
+              "chinese": "人群"
+            },
+            {
+              "number": 6,
+              "japanese": "浮(う)く",
+              "chinese": "浮,浮动,漂浮"
+            },
+            {
+              "number": 7,
+              "japanese": "沈(しず)む",
+              "chinese": "沉下,降落"
+            },
+            {
+              "number": 8,
+              "japanese": "関係を築く",
+              "chinese": "建立关系"
+            },
+            {
+              "number": 9,
+              "japanese": "端(はし)",
+              "chinese": "端,头,边缘"
+            },
+            {
+              "number": 10,
+              "japanese": "漂う(ただよう)",
+              "chinese": "弥漫,飘散(味道)"
+            },
+            {
+              "number": 11,
+              "japanese": "ぶつぶつつぶやく",
+              "chinese": "抱怨,唠叨,发牢骚"
+            },
+            {
+              "number": 12,
+              "japanese": "ビジネスを立ち上げる",
+              "chinese": "创业，开始做生意"
+            },
+            {
+              "number": 13,
+              "japanese": "取り組み",
+              "chinese": "尝试,对策"
+            },
+            {
+              "number": 14,
+              "japanese": "一刻も早く",
+              "chinese": "立即,马上"
+            },
+            {
+              "number": 15,
+              "japanese": "～に立ち会う",
+              "chinese": "到场,在场,在～的现场"
+            },
+            {
+              "number": 16,
+              "japanese": "メディア",
+              "chinese": "传媒,媒体"
+            },
+            {
+              "number": 17,
+              "japanese": "メロディー",
+              "chinese": "旋律"
+            },
+            {
+              "number": 18,
+              "japanese": "めっきり",
+              "chinese": "显著,急剧"
+            },
+            {
+              "number": 19,
+              "japanese": "老(ふ)ける",
+              "chinese": "老,上年纪"
+            },
+            {
+              "number": 20,
+              "japanese": "手品(てじな)",
+              "chinese": "戏法,欺骗手法，诡计"
+            },
+            {
+              "number": 21,
+              "japanese": "裏切る(うらぎる)",
+              "chinese": "背叛"
+            },
+            {
+              "number": 22,
+              "japanese": "見事(みごと)",
+              "chinese": "难得的,精彩的,卓越的"
+            },
+            {
+              "number": 23,
+              "japanese": "お供(とも)の人",
+              "chinese": "随从"
+            },
+            {
+              "number": 24,
+              "japanese": "墓(はか)",
+              "chinese": "坟墓"
+            },
+            {
+              "number": 25,
+              "japanese": "ペース",
+              "chinese": "节奏,步调"
+            },
+            {
+              "number": 26,
+              "japanese": "システム",
+              "chinese": "系统"
+            },
+            {
+              "number": 27,
+              "japanese": "内部告発(こくはつ)",
+              "chinese": "内部检举"
+            },
+            {
+              "number": 28,
+              "japanese": "自ら(みずから)",
+              "chinese": "自己,亲自"
+            },
+            {
+              "number": 29,
+              "japanese": "～に従う",
+              "chinese": "听从,遵循～"
+            },
+            {
+              "number": 30,
+              "japanese": "度重なる(たびかさなる)",
+              "chinese": "反复,接二连三"
+            },
+            {
+              "number": 31,
+              "japanese": "初(はつ)出場",
+              "chinese": "初次登场"
+            },
+            {
+              "number": 32,
+              "japanese": "プレッシャー",
+              "chinese": "压力"
+            },
+            {
+              "number": 33,
+              "japanese": "悪(あく)天候",
+              "chinese": "坏天气"
+            },
+            {
+              "number": 34,
+              "japanese": "過酷(かこく)",
+              "chinese": "残酷的,严酷的"
+            },
+            {
+              "number": 35,
+              "japanese": "予備校(よびこう)",
+              "chinese": "补习学校"
+            },
+            {
+              "number": 36,
+              "japanese": "振興(しんこう)",
+              "chinese": "振兴"
+            },
+            {
+              "number": 37,
+              "japanese": "力を注ぐ(そそぐ)",
+              "chinese": "倾注全力"
+            },
+            {
+              "number": 38,
+              "japanese": "自給自足(じきゅうじそく)",
+              "chinese": "自给自足"
+            },
+            {
+              "number": 39,
+              "japanese": "飼育（しいく）",
+              "chinese": "喂养,饲养"
+            },
+            {
+              "number": 40,
+              "japanese": "営む(いとなむ)",
+              "chinese": "经营"
+            },
+            {
+              "number": 41,
+              "japanese": "栽培(さいばい)",
+              "chinese": "栽培"
+            },
+            {
+              "number": 42,
+              "japanese": "ジャム",
+              "chinese": "果酱"
+            },
+            {
+              "number": 43,
+              "japanese": "繁殖(はんしょく)",
+              "chinese": "繁殖"
+            },
+            {
+              "number": 44,
+              "japanese": "～に力を入れる",
+              "chinese": "致力于～"
+            },
+            {
+              "number": 45,
+              "japanese": "～に励む(はげむ)",
+              "chinese": "钻研～,勤于～"
+            },
+            {
+              "number": 46,
+              "japanese": "まつわる",
+              "chinese": "纠缠；有关于…"
+            },
+            {
+              "number": 47,
+              "japanese": "息詰(づ)まる",
+              "chinese": "（紧张得）无法喘息"
+            },
+            {
+              "number": 48,
+              "japanese": "見逃す(みのがす)",
+              "chinese": "看漏，视而不见"
+            }
+          ]
+        },
+        {
+          "title": "楽園の萌花（2）",
+          "sourcePage": 14,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "謎(なぞ)",
+              "chinese": "迷,谜团"
+            },
+            {
+              "number": 2,
+              "japanese": "懐(ふところ)",
+              "chinese": "怀里,胸怀"
+            },
+            {
+              "number": 3,
+              "japanese": "～に伝わる",
+              "chinese": "传达～,流传"
+            },
+            {
+              "number": 4,
+              "japanese": "恐(おそ)れる",
+              "chinese": "恐惧,害怕"
+            },
+            {
+              "number": 5,
+              "japanese": "透(す)ける",
+              "chinese": "透出,看见;透明"
+            },
+            {
+              "number": 6,
+              "japanese": "腰(こし)を下(お)ろす",
+              "chinese": "坐下"
+            },
+            {
+              "number": 7,
+              "japanese": "徐々(じょじょ)に",
+              "chinese": "慢慢地,渐渐地"
+            },
+            {
+              "number": 8,
+              "japanese": "口調(くちょう)",
+              "chinese": "口吻"
+            },
+            {
+              "number": 9,
+              "japanese": "非難(ひなん)",
+              "chinese": "责怪,责难"
+            },
+            {
+              "number": 10,
+              "japanese": "黙々(もくもく)と働く",
+              "chinese": "默不出声地工作"
+            },
+            {
+              "number": 11,
+              "japanese": "作り話(ばなし)",
+              "chinese": "虚构的故事"
+            },
+            {
+              "number": 12,
+              "japanese": "美談(びだん)",
+              "chinese": "美谈,令人钦佩的事"
+            },
+            {
+              "number": 13,
+              "japanese": "待ち遠(どお)しい",
+              "chinese": "望眼欲穿，盼望已久"
+            },
+            {
+              "number": 14,
+              "japanese": "微笑(ほほえみ)",
+              "chinese": "微笑"
+            },
+            {
+              "number": 15,
+              "japanese": "魅了(みりょう)する",
+              "chinese": "使…入迷;夺人魂魄"
+            },
+            {
+              "number": 16,
+              "japanese": "不正(ふせい)",
+              "chinese": "不正当"
+            },
+            {
+              "number": 17,
+              "japanese": "暴(あば)く",
+              "chinese": "揭发,揭露,败露"
+            },
+            {
+              "number": 18,
+              "japanese": "脅迫(きょうはく)",
+              "chinese": "胁迫,威胁"
+            },
+            {
+              "number": 19,
+              "japanese": "ジャーナリスト",
+              "chinese": "记者,编辑"
+            },
+            {
+              "number": 20,
+              "japanese": "コーチ",
+              "chinese": "教练"
+            },
+            {
+              "number": 21,
+              "japanese": "駆け寄る(かけよる)",
+              "chinese": "跑到跟前,跑近"
+            },
+            {
+              "number": 22,
+              "japanese": "ロビー",
+              "chinese": "大厅"
+            },
+            {
+              "number": 23,
+              "japanese": "スーツケース",
+              "chinese": "行李箱"
+            },
+            {
+              "number": 24,
+              "japanese": "札束(さつたば)",
+              "chinese": "一捆钞票"
+            },
+            {
+              "number": 25,
+              "japanese": "総立ち(そうだち)",
+              "chinese": "全体一起站起来"
+            },
+            {
+              "number": 26,
+              "japanese": "任(まか)せる",
+              "chinese": "委任,托付,交给"
+            },
+            {
+              "number": 27,
+              "japanese": "試験に落ちる",
+              "chinese": "考试不及格,落榜"
+            },
+            {
+              "number": 28,
+              "japanese": "先を争う(あらそう)",
+              "chinese": "争先恐后"
+            },
+            {
+              "number": 29,
+              "japanese": "敢(あ)えて",
+              "chinese": "敢,敢于"
+            },
+            {
+              "number": 30,
+              "japanese": "引き受ける",
+              "chinese": "接受"
+            },
+            {
+              "number": 31,
+              "japanese": "率(ひき)いる",
+              "chinese": "率领,带领"
+            },
+            {
+              "number": 32,
+              "japanese": "うそも方便",
+              "chinese": "撒谎也是权宜办法"
+            },
+            {
+              "number": 33,
+              "japanese": "華々(はなばな)しい",
+              "chinese": "华丽,绚丽,辉煌"
+            },
+            {
+              "number": 34,
+              "japanese": "寄り添う(よりそう)",
+              "chinese": "贴近,挨近"
+            },
+            {
+              "number": 35,
+              "japanese": "湯水(ゆみず)のごとく使う",
+              "chinese": "花钱等如流水"
+            },
+            {
+              "number": 36,
+              "japanese": "貧乏(びんぼう)",
+              "chinese": "贫穷,困苦,贫苦"
+            },
+            {
+              "number": 37,
+              "japanese": "光陰(こういん)矢(や)のごとし",
+              "chinese": "光阴似箭"
+            },
+            {
+              "number": 38,
+              "japanese": "草(くさ)",
+              "chinese": "草"
+            },
+            {
+              "number": 39,
+              "japanese": "舞う(まう)",
+              "chinese": "飘荡,飞舞"
+            },
+            {
+              "number": 40,
+              "japanese": "威張る(いばる)",
+              "chinese": "自以为了不起,逞威风"
+            },
+            {
+              "number": 41,
+              "japanese": "振る舞う(ふるまう)",
+              "chinese": "行动,摆出…样子"
+            },
+            {
+              "number": 42,
+              "japanese": "小心者(しょうしんもの)",
+              "chinese": "胆小鬼,小心的人"
+            },
+            {
+              "number": 43,
+              "japanese": "老(お)いる",
+              "chinese": "老,年老,上年纪"
+            },
+            {
+              "number": 44,
+              "japanese": "安(やす)らか",
+              "chinese": "安乐,无忧无苦,平静"
+            },
+            {
+              "number": 45,
+              "japanese": "平然(へいぜん)",
+              "chinese": "沉着地,坦然不惊地"
+            },
+            {
+              "number": 46,
+              "japanese": "塀(へい)",
+              "chinese": "围墙,墙"
+            },
+            {
+              "number": 47,
+              "japanese": "闇(やみ)",
+              "chinese": "黑暗,黑夜"
+            },
+            {
+              "number": 48,
+              "japanese": "消え去る(きえさる)",
+              "chinese": "消失,消散"
+            },
+            {
+              "number": 49,
+              "japanese": "志(こころざし)",
+              "chinese": "志向,志愿,意图"
+            },
+            {
+              "number": 50,
+              "japanese": "半(なか)ば",
+              "chinese": "中间,半途,一半"
+            },
+            {
+              "number": 51,
+              "japanese": "病(やまい)",
+              "chinese": "疾病"
+            },
+            {
+              "number": 52,
+              "japanese": "無念(むねん)",
+              "chinese": "遗憾,懊恼"
+            },
+            {
+              "number": 53,
+              "japanese": "気が重い",
+              "chinese": "心情沉重"
+            },
+            {
+              "number": 54,
+              "japanese": "不気味(ふぎみ)",
+              "chinese": "令人害怕的/寒栗的"
+            },
+            {
+              "number": 55,
+              "japanese": "障害(しょうがい)",
+              "chinese": "障碍,故障"
+            },
+            {
+              "number": 56,
+              "japanese": "一顧(いっこ)",
+              "chinese": "一看,一顾"
+            },
+            {
+              "number": 57,
+              "japanese": "一存(いちぞん)",
+              "chinese": "自己个人的意见"
+            },
+            {
+              "number": 58,
+              "japanese": "里(さと)",
+              "chinese": "村落,村庄"
+            },
+            {
+              "number": 59,
+              "japanese": "待ちかねる",
+              "chinese": "翘首盼望,伸长脖子等"
+            },
+            {
+              "number": 60,
+              "japanese": "見かねる",
+              "chinese": "不忍旁观"
+            },
+            {
+              "number": 61,
+              "japanese": "相応しい(ふさわしい)",
+              "chinese": "适合,相称"
+            },
+            {
+              "number": 62,
+              "japanese": "とうてい+否定",
+              "chinese": "到底(无法)"
+            },
+            {
+              "number": 63,
+              "japanese": "ギャンブル",
+              "chinese": "赌博,投机"
+            },
+            {
+              "number": 64,
+              "japanese": "離れ離れ(はなればなれ)",
+              "chinese": "分离,分散,四散东西"
+            },
+            {
+              "number": 65,
+              "japanese": "夜を徹(てっ)する",
+              "chinese": "彻夜"
+            },
+            {
+              "number": 66,
+              "japanese": "語(かた)り明(あ)かす",
+              "chinese": "谈到天亮,聊到黎明"
+            },
+            {
+              "number": 67,
+              "japanese": "シーズン",
+              "chinese": "季节"
+            },
+            {
+              "number": 68,
+              "japanese": "貫く(つらぬく)",
+              "chinese": "贯彻"
+            },
+            {
+              "number": 69,
+              "japanese": "貧困にあえぐ",
+              "chinese": "在贫困中挣扎"
+            },
+            {
+              "number": 70,
+              "japanese": "踏(ふ)み切る",
+              "chinese": "下定决心"
+            },
+            {
+              "number": 71,
+              "japanese": "さぞかし",
+              "chinese": "想必"
+            },
+            {
+              "number": 72,
+              "japanese": "気まずい",
+              "chinese": "不痛快，不融洽"
+            },
+            {
+              "number": 73,
+              "japanese": "見通し(みとおし)",
+              "chinese": "预测"
+            },
+            {
+              "number": 74,
+              "japanese": "腹をくくる",
+              "chinese": "横下心来"
+            },
+            {
+              "number": 75,
+              "japanese": "なめる",
+              "chinese": "小看，看扁"
+            },
+            {
+              "number": 76,
+              "japanese": "囁き(ささやき)",
+              "chinese": "私语，耳语"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 9,
+      "sections": [
+        {
+          "title": "トリアージ",
+          "sourcePage": 15,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "優先順位(ゆうせんじゅんい)",
+              "chinese": "优先顺序"
+            },
+            {
+              "number": 2,
+              "japanese": "速(すみ)やか",
+              "chinese": "及时,迅速"
+            },
+            {
+              "number": 3,
+              "japanese": "決断(けつだん)",
+              "chinese": "决断"
+            },
+            {
+              "number": 4,
+              "japanese": "迫(せま)る",
+              "chinese": "迫使,强迫"
+            },
+            {
+              "number": 5,
+              "japanese": "タグ",
+              "chinese": "标签"
+            },
+            {
+              "number": 6,
+              "japanese": "処置(しょち)",
+              "chinese": "处置,处理"
+            },
+            {
+              "number": 7,
+              "japanese": "非情(ひじょう)",
+              "chinese": "无情"
+            },
+            {
+              "number": 8,
+              "japanese": "究極(きゅうきょく)",
+              "chinese": "最终,究竟，终极"
+            },
+            {
+              "number": 9,
+              "japanese": "受け止める",
+              "chinese": "理解,认识，对待"
+            },
+            {
+              "number": 10,
+              "japanese": "人手(ひとで)",
+              "chinese": "人手,帮手"
+            },
+            {
+              "number": 11,
+              "japanese": "値(ね)がつく",
+              "chinese": "有价值"
+            },
+            {
+              "number": 12,
+              "japanese": "寄付(きふ)",
+              "chinese": "捐款"
+            },
+            {
+              "number": 13,
+              "japanese": "医療ミス",
+              "chinese": "医疗事故"
+            },
+            {
+              "number": 14,
+              "japanese": "厳重(げんじゅう)に",
+              "chinese": "严肃地,严格地"
+            },
+            {
+              "number": 15,
+              "japanese": "需要(じゅよう)",
+              "chinese": "需要"
+            },
+            {
+              "number": 16,
+              "japanese": "福祉(ふくし)",
+              "chinese": "福利"
+            },
+            {
+              "number": 17,
+              "japanese": "存続(そんぞく)",
+              "chinese": "永存,长存,继续存在"
+            },
+            {
+              "number": 18,
+              "japanese": "火災(かさい)",
+              "chinese": "火灾"
+            },
+            {
+              "number": 19,
+              "japanese": "整備(せいび)",
+              "chinese": "配备,维护,整备"
+            },
+            {
+              "number": 20,
+              "japanese": "業績(ぎょうせき)",
+              "chinese": "业绩,成绩"
+            },
+            {
+              "number": 21,
+              "japanese": "低迷（ていめい）",
+              "chinese": "低迷,萎靡不振;弥漫"
+            },
+            {
+              "number": 22,
+              "japanese": "根強い(ねづよい)",
+              "chinese": "根深蒂固,顽强"
+            },
+            {
+              "number": 23,
+              "japanese": "押(お)し寄(よ)せる",
+              "chinese": "蜂拥而至"
+            },
+            {
+              "number": 24,
+              "japanese": "悪天候(あくてんこう)",
+              "chinese": "恶劣天气时"
+            },
+            {
+              "number": 25,
+              "japanese": "誤解を招(まね)く",
+              "chinese": "招致误解"
+            },
+            {
+              "number": 26,
+              "japanese": "境遇(きょうぐう)",
+              "chinese": "境遇"
+            },
+            {
+              "number": 27,
+              "japanese": "道のり",
+              "chinese": "路程"
+            },
+            {
+              "number": 28,
+              "japanese": "スキャンダル",
+              "chinese": "丑闻"
+            },
+            {
+              "number": 29,
+              "japanese": "引き立(た)てる",
+              "chinese": "衬托，使显眼/好看"
+            },
+            {
+              "number": 30,
+              "japanese": "強いる(しいる)",
+              "chinese": "强制，强迫"
+            },
+            {
+              "number": 31,
+              "japanese": "往々(おうおう)",
+              "chinese": "往往"
+            },
+            {
+              "number": 32,
+              "japanese": "下回る(したまわる)",
+              "chinese": "低于，比……少"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 10,
+      "sections": [
+        {
+          "title": "前衛書道",
+          "sourcePage": 16,
+          "words": [
+            {
+              "number": 1,
+              "japanese": "前衛(ぜんえい)",
+              "chinese": "前卫"
+            },
+            {
+              "number": 2,
+              "japanese": "二度書(が)き",
+              "chinese": "涂改,重写"
+            },
+            {
+              "number": 3,
+              "japanese": "決まり",
+              "chinese": "规定，规则"
+            },
+            {
+              "number": 4,
+              "japanese": "縛(しば)る",
+              "chinese": "捆绑，束缚"
+            },
+            {
+              "number": 5,
+              "japanese": "筆(ふで)",
+              "chinese": "毛笔"
+            },
+            {
+              "number": 6,
+              "japanese": "余白(よはく)",
+              "chinese": "空白,留白"
+            },
+            {
+              "number": 7,
+              "japanese": "純粋(じゅんすい)",
+              "chinese": "纯粹,单纯"
+            },
+            {
+              "number": 8,
+              "japanese": "鑑賞（かんしょう）",
+              "chinese": "鉴赏,欣赏"
+            },
+            {
+              "number": 9,
+              "japanese": "批判（ひはん）",
+              "chinese": "批判"
+            },
+            {
+              "number": 10,
+              "japanese": "高名(こうめい)",
+              "chinese": "有名的,德高望重的"
+            },
+            {
+              "number": 11,
+              "japanese": "卑近(ひきん)",
+              "chinese": "浅显,浅近"
+            },
+            {
+              "number": 12,
+              "japanese": "疑(うたが)う",
+              "chinese": "怀疑,疑惑,猜疑"
+            },
+            {
+              "number": 13,
+              "japanese": "異(こと)なる",
+              "chinese": "不同,不一样"
+            },
+            {
+              "number": 14,
+              "japanese": "ペンキ",
+              "chinese": "油漆"
+            },
+            {
+              "number": 15,
+              "japanese": "本番(ほんばん)",
+              "chinese": "正式的,正式表演"
+            },
+            {
+              "number": 16,
+              "japanese": "毛皮(けがわ)",
+              "chinese": "毛皮,皮草"
+            },
+            {
+              "number": 17,
+              "japanese": "乱獲（らんかく）",
+              "chinese": "滥捕"
+            },
+            {
+              "number": 18,
+              "japanese": "絶滅（ぜつめつ）",
+              "chinese": "灭绝"
+            },
+            {
+              "number": 19,
+              "japanese": "過(あやま)ち",
+              "chinese": "过失,过错,错误"
+            },
+            {
+              "number": 20,
+              "japanese": "裏切る(うらぎる)",
+              "chinese": "背叛"
+            },
+            {
+              "number": 21,
+              "japanese": "～を追われる",
+              "chinese": "被开除"
+            },
+            {
+              "number": 22,
+              "japanese": "巧(たく)み",
+              "chinese": "灵巧的,精湛的"
+            },
+            {
+              "number": 23,
+              "japanese": "リアル",
+              "chinese": "生动的,写实的"
+            },
+            {
+              "number": 24,
+              "japanese": "幻想的(げんそうてき)",
+              "chinese": "幻想的,空想的"
+            },
+            {
+              "number": 25,
+              "japanese": "育(はぐく)む",
+              "chinese": "培养,养育;孵化"
+            },
+            {
+              "number": 26,
+              "japanese": "空気が澄(す)む",
+              "chinese": "空气清澈,清新"
+            },
+            {
+              "number": 27,
+              "japanese": "誇(ほこ)る",
+              "chinese": "夸耀"
+            },
+            {
+              "number": 28,
+              "japanese": "快挙(かいきょ)",
+              "chinese": "壮举,令人称快的行为"
+            },
+            {
+              "number": 29,
+              "japanese": "熱意(ねつい)",
+              "chinese": "热忱,热情"
+            },
+            {
+              "number": 30,
+              "japanese": "成(な)し遂(と)げる",
+              "chinese": "完成,实现"
+            },
+            {
+              "number": 31,
+              "japanese": "慎重(しんちょう)に",
+              "chinese": "慎重地"
+            },
+            {
+              "number": 32,
+              "japanese": "造詣(ぞうけい)が深い",
+              "chinese": "造诣深厚"
+            },
+            {
+              "number": 33,
+              "japanese": "察(さっ)する",
+              "chinese": "推测,揣测,想象"
+            },
+            {
+              "number": 34,
+              "japanese": "賄賂(わいろ)",
+              "chinese": "贿赂"
+            },
+            {
+              "number": 35,
+              "japanese": "真っ先(まっさき)に",
+              "chinese": "头一个,最先"
+            },
+            {
+              "number": 36,
+              "japanese": "だまし取る",
+              "chinese": "骗取"
+            },
+            {
+              "number": 37,
+              "japanese": "横領（おうりょう）",
+              "chinese": "侵吞,贪污,霸占"
+            },
+            {
+              "number": 38,
+              "japanese": "欠陥品(けっかんひん)",
+              "chinese": "残次品,瑕疵品"
+            },
+            {
+              "number": 39,
+              "japanese": "公(おおやけ) の 場",
+              "chinese": "公共场合"
+            },
+            {
+              "number": 40,
+              "japanese": "奇跡(きせき)",
+              "chinese": "奇迹"
+            },
+            {
+              "number": 41,
+              "japanese": "めぐり会う",
+              "chinese": "巡游,循环"
+            },
+            {
+              "number": 42,
+              "japanese": "弾圧（だんあつ）",
+              "chinese": "镇压,压制"
+            },
+            {
+              "number": 43,
+              "japanese": "報道（ほうどう）",
+              "chinese": "报道"
+            },
+            {
+              "number": 44,
+              "japanese": "問(と)いかけ",
+              "chinese": "提问,询问"
+            },
+            {
+              "number": 45,
+              "japanese": "自首（じしゅ）",
+              "chinese": "自首"
+            },
+            {
+              "number": 46,
+              "japanese": "不可解(ふかかい)",
+              "chinese": "令人费解的,不可思议的"
+            },
+            {
+              "number": 47,
+              "japanese": "痛恨(つうこん)",
+              "chinese": "痛心,悔恨"
+            },
+            {
+              "number": 48,
+              "japanese": "戸惑う(とまどう)",
+              "chinese": "困惑"
+            },
+            {
+              "number": 49,
+              "japanese": "実行力(じっこうりょく)",
+              "chinese": "实干能力,实行力"
+            },
+            {
+              "number": 50,
+              "japanese": "憤り(いきどおり)",
+              "chinese": "愤怒,气愤,愤慨"
+            },
+            {
+              "number": 51,
+              "japanese": "惜別(せきべつ)",
+              "chinese": "惜别"
+            },
+            {
+              "number": 52,
+              "japanese": "担(にな)う",
+              "chinese": "担,挑,肩负,承担"
+            },
+            {
+              "number": 53,
+              "japanese": "思いやる",
+              "chinese": "体贴,体谅"
+            },
+            {
+              "number": 54,
+              "japanese": "耐(た)える",
+              "chinese": "忍耐,忍受,承受"
+            },
+            {
+              "number": 55,
+              "japanese": "リスクを負う",
+              "chinese": "承担风险"
+            },
+            {
+              "number": 56,
+              "japanese": "提携(ていけい)",
+              "chinese": "协作"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
