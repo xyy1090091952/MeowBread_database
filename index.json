@@ -128,15 +128,16 @@
         {
             "id": "try_n1",
             "name": "TRY日语N1",
-            "description": "TRY N1 第1课：ビールの祭典",
+            "description": "TRY N1 第1～2课",
             "cover": "https://xyy1090091952.github.io/MeowBread_database/assets/try_n1-cover-v6.png",
             "volumes": [
                 {
                     "id": "basic",
                     "name": "N1",
-                    "description": "第1课（其余课程待补充）",
+                    "description": "第1～2课（其余课程待补充）",
                     "lessons": [
-                        1
+                        1,
+                        2
                     ]
                 }
             ],
@@ -146,6 +147,12 @@
                     "courseTitle": "第1课",
                     "lessonFile": "lesson1.json",
                     "description": "ビールの祭典"
+                },
+                {
+                    "courseNumber": 2,
+                    "courseTitle": "第2课",
+                    "lessonFile": "lesson2.json",
+                    "description": "産業医を増やそう"
                 }
             ]
         }

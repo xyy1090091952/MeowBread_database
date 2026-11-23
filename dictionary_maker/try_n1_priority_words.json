@@ -323,222 +323,266 @@
             {
               "number": 1,
               "japanese": "補助(ほじょ)",
-              "chinese": "补助"
+              "chinese": "补助",
+              "wordKey": "補助"
             },
             {
               "number": 2,
               "japanese": "～未満(みまん)",
-              "chinese": "不到～,少于～"
+              "chinese": "不到～,少于～",
+              "wordKey": "未満"
             },
             {
               "number": 3,
               "japanese": "～程度(ていど)",
-              "chinese": "～左右,相当于～程度"
+              "chinese": "～左右,相当于～程度",
+              "wordKey": "程度"
             },
             {
               "number": 4,
               "japanese": "わずか",
-              "chinese": "仅,仅仅只有,一点点"
+              "chinese": "仅,仅仅只有,一点点",
+              "wordKey": "わずか"
             },
             {
               "number": 5,
               "japanese": "休職(きゅうしょく)",
-              "chinese": "停职"
+              "chinese": "停职",
+              "wordKey": "休職"
             },
             {
               "number": 6,
               "japanese": "もはや",
-              "chinese": "(事到如今)已经"
+              "chinese": "(事到如今)已经",
+              "wordKey": "もはや"
             },
             {
               "number": 7,
               "japanese": "猶予(ゆうよ)",
-              "chinese": "犹豫;宽限，延迟,延缓"
+              "chinese": "犹豫;宽限，延迟,延缓",
+              "wordKey": "猶予"
             },
             {
               "number": 8,
               "japanese": "働き盛り(ざかり)",
-              "chinese": "青壮年时期,年富力强"
+              "chinese": "青壮年时期,年富力强",
+              "wordKey": "働き盛り"
             },
             {
               "number": 9,
               "japanese": "疎(おろそ)かになる",
-              "chinese": "草率，敷衍了事"
+              "chinese": "草率，敷衍了事",
+              "wordKey": "疎かになる"
             },
             {
               "number": 10,
               "japanese": "実績(じっせき)をあげる",
-              "chinese": "做出实绩成果"
+              "chinese": "做出实绩成果",
+              "wordKey": "実績をあげる"
             },
             {
               "number": 11,
               "japanese": "新卒(しんそつ)",
-              "chinese": "应届生,刚大学毕业"
+              "chinese": "应届生,刚大学毕业",
+              "wordKey": "新卒"
             },
             {
               "number": 12,
               "japanese": "侍(さむらい)",
-              "chinese": "武士"
+              "chinese": "武士",
+              "wordKey": "侍"
             },
             {
               "number": 13,
               "japanese": "剣(けん)",
-              "chinese": "剑"
+              "chinese": "剑",
+              "wordKey": "剣"
             },
             {
               "number": 14,
               "japanese": "弓(ゆみ)",
-              "chinese": "弓"
+              "chinese": "弓",
+              "wordKey": "弓"
             },
             {
               "number": 15,
               "japanese": "槍(やり)",
-              "chinese": "长枪,矛"
+              "chinese": "长枪,矛",
+              "wordKey": "槍"
             },
             {
               "number": 16,
               "japanese": "空き缶(あきかん)",
-              "chinese": "空罐"
+              "chinese": "空罐",
+              "wordKey": "空き缶"
             },
             {
               "number": 17,
               "japanese": "自負（じふ）",
-              "chinese": "自负,自满,自大"
+              "chinese": "自负,自满,自大",
+              "wordKey": "自負する"
             },
             {
               "number": 18,
               "japanese": "雑草(ざっそう)",
-              "chinese": "杂草"
+              "chinese": "杂草",
+              "wordKey": "雑草"
             },
             {
               "number": 19,
               "japanese": "（感情を）抑える",
-              "chinese": "压抑(感情)"
+              "chinese": "压抑(感情)",
+              "wordKey": "抑える"
             },
             {
               "number": 20,
               "japanese": "壮大(そうだい)",
-              "chinese": "宏大,雄壮"
+              "chinese": "宏大,雄壮",
+              "wordKey": "壮大な"
             },
             {
               "number": 21,
               "japanese": "傑作(けっさく)",
-              "chinese": "杰作"
+              "chinese": "杰作",
+              "wordKey": "傑作"
             },
             {
               "number": 22,
               "japanese": "不用意(ふようい)",
-              "chinese": "不谨慎,不小心"
+              "chinese": "不谨慎,不小心",
+              "wordKey": "不用意"
             },
             {
               "number": 23,
               "japanese": "閉鎖(へいさ)",
-              "chinese": "封闭,关闭"
+              "chinese": "封闭,关闭",
+              "wordKey": "閉鎖"
             },
             {
               "number": 24,
               "japanese": "相次ぐ(あいつぐ)",
-              "chinese": "相继发生,接连不断"
+              "chinese": "相继发生,接连不断",
+              "wordKey": "相次ぐ"
             },
             {
               "number": 25,
               "japanese": "コスト削減(さくげん)",
-              "chinese": "削减成本"
+              "chinese": "削减成本",
+              "wordKey": "コスト削減"
             },
             {
               "number": 26,
               "japanese": "決勝戦(けっしょうせん)",
-              "chinese": "决胜局"
+              "chinese": "决胜局",
+              "wordKey": "決勝戦"
             },
             {
               "number": 27,
               "japanese": "群れ(むれ)",
-              "chinese": "群"
+              "chinese": "群",
+              "wordKey": "群れ"
             },
             {
               "number": 28,
               "japanese": "柵(さく)",
-              "chinese": "栅栏"
+              "chinese": "栅栏",
+              "wordKey": "柵"
             },
             {
               "number": 29,
               "japanese": "～に追い込む",
-              "chinese": "赶进,撵入,让…进去"
+              "chinese": "赶进,撵入,让…进去",
+              "wordKey": "追い込む"
             },
             {
               "number": 30,
               "japanese": "一粒(ひとつぶ)",
-              "chinese": "一颗,一粒"
+              "chinese": "一颗,一粒",
+              "wordKey": "一粒"
             },
             {
               "number": 31,
               "japanese": "お節介(せっかい)を焼く",
-              "chinese": "爱管闲事,多嘴多舌"
+              "chinese": "爱管闲事,多嘴多舌",
+              "wordKey": "お節介を焼く"
             },
             {
               "number": 32,
               "japanese": "軽(かろ)んじる",
-              "chinese": "轻视,蔑视"
+              "chinese": "轻视,蔑视",
+              "wordKey": "軽んじる"
             },
             {
               "number": 33,
               "japanese": "承認（しょうにん）",
-              "chinese": "承认,许可,批准"
+              "chinese": "承认,许可,批准",
+              "wordKey": "承認する"
             },
             {
               "number": 34,
               "japanese": "毒(どく)",
-              "chinese": "毒"
+              "chinese": "毒",
+              "wordKey": "毒"
             },
             {
               "number": 35,
               "japanese": "相続(そうぞく)",
-              "chinese": "继承,继任"
+              "chinese": "继承,继任",
+              "wordKey": "相続"
             },
             {
               "number": 36,
               "japanese": "多数決(たすうけつ)",
-              "chinese": "多数表决"
+              "chinese": "多数表决",
+              "wordKey": "多数決"
             },
             {
               "number": 37,
               "japanese": "負傷（ふしょう）",
-              "chinese": "负伤,受伤"
+              "chinese": "负伤,受伤",
+              "wordKey": "負傷する"
             },
             {
               "number": 38,
               "japanese": "控え(ひかえ)",
-              "chinese": "副本,存根;候补,预备"
+              "chinese": "副本,存根;候补,预备",
+              "wordKey": "控え"
             },
             {
               "number": 39,
               "japanese": "その旨(むね)",
-              "chinese": "这样的意思"
+              "chinese": "这样的意思",
+              "wordKey": "その旨"
             },
             {
               "number": 40,
               "japanese": "一丸(いちがん)",
-              "chinese": "一个整体,集中在一起"
+              "chinese": "一个整体,集中在一起",
+              "wordKey": "一丸"
             },
             {
               "number": 41,
               "japanese": "無茶(むちゃ)",
-              "chinese": "毫无道理,离谱;胡来"
+              "chinese": "毫无道理,离谱;胡来",
+              "wordKey": "無茶"
             },
             {
               "number": 42,
               "japanese": "一助(いちじょ)",
-              "chinese": "一点儿帮助,一臂之力"
+              "chinese": "一点儿帮助,一臂之力",
+              "wordKey": "一助"
             },
             {
               "number": 43,
               "japanese": "気の毒(どく)",
-              "chinese": "(感到)可怜；过意不去"
+              "chinese": "(感到)可怜；过意不去",
+              "wordKey": "気の毒"
             },
             {
               "number": 44,
               "japanese": "合間(あいま)",
-              "chinese": "余暇"
+              "chinese": "余暇",
+              "wordKey": "合間"
             }
           ]
         }
